@@ -7,8 +7,7 @@
   - Api
   - Infrastructure
   - Application
-  - Domain
- 
+  - Domain 
 - Generic repository
 - Brug ASP.NET Core Identity til authorization og authentication
 
